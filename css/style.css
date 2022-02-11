@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    max-width: 1400px;
+    margin: 30px auto;
+}
+
+header, aside, div.experience, div.formation, div.competence {
+    display: grid;
+}
+
+header {
+    background-color: yellow;
+}
+
+aside {
+    background-color: orange;
+}
+
+div.experience {
+    background-color: orangered;
+}
+
+div.formation {
+    background-color: red;
+}
+
+div.competence {
+    background-color: yellowgreen;
+}
+
+
+
